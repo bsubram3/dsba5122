@@ -11,5 +11,3 @@ if uploaded_file is not None:
   st.write(dataframe)
   # iterating the columns
   st.title('Columns in the Dataset')
-  for col in dataframe.columns:
-    st.write((col)
