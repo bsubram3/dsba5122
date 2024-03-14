@@ -2,4 +2,4 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('create visuals')
+st.title('Create  Dynamic Visuals')
